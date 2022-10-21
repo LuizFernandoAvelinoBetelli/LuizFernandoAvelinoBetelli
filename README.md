@@ -1,4 +1,6 @@
  ## Olá! eu sou Luiz Fernando <3 👋
+ Estudando Desenvolvimento de Softwares e Multiplataformas na Fatec-Araras
+ Tenho interesse em programação back-end
 
 <div>
   <a href="https://github.com/lucabeteghella">
@@ -14,12 +16,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
 
-<h4> REDES SOCIAIS </h4> 
+<h3>Redes Sociais:</h3>
 
 <div>
  <a href="https://www.youtube.com/channel/UCAiXVZkA-D6ghozGIYrlEbQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
