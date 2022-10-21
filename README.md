@@ -17,11 +17,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-
 </div>
 
-<br/>
-
 ##
-
-<br/>
 
 <h4> REDES SOCIAIS </h4> 
 
