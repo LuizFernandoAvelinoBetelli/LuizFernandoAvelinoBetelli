@@ -6,11 +6,11 @@
 
 
 <div>
-
+ <a href="https://github.com/LuizFernandoAvelinoBetelli">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoAvelinoBetelli&theme=dracula&layout=compact&langs_count=10" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuizFernandoAvelinoBetelli&show_icons=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true"/>
   
-  <a href="https://github.com/LuizFernandoAvelinoBetelli">
+  
   <img align="center" width="148" height="140" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
   
