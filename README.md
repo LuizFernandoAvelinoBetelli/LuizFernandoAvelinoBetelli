@@ -1,6 +1,6 @@
  ## Olá! eu sou Luiz Fernando <3 👋
  Estudando Desenvolvimento de Softwares e Multiplataformas na Fatec-Araras
- Tenho interesse em programação back-end
+ Tenho interesse em programação front-end
 
 
 
